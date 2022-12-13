@@ -15,7 +15,7 @@ Question 4
   Pour rebuild une img il faut utiliser la commande CMD +le chemin + -d
   
 Question 5 
-```yaml```
+```yaml
 version: '3'
 services:
   app:
@@ -32,3 +32,5 @@ services:
     image: mongo:latest
     volumes:
       - ./data:/data/db
+      
+ ```
