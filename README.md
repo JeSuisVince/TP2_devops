@@ -34,3 +34,5 @@ services:
       - ./data:/data/db
       
  ```
+ 
+ Question 6 
